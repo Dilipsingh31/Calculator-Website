@@ -1,4 +1,4 @@
-# Calculator Web Application
+## Calculator Web Application
 
 This project is a stylish and functional web-based calculator application with a modern design, featuring a dark background, vibrant button styling, and a subtle neon glow effect for an enhanced user interface.
 
@@ -26,5 +26,5 @@ This project is a stylish and functional web-based calculator application with a
 
 Feel free to explore and use this calculator for your daily computation needs!
 
-# Test
+## Test
 That link 👉 http://127.0.0.1:5500/index.html
