@@ -26,5 +26,4 @@ This project is a stylish and functional web-based calculator application with a
 
 Feel free to explore and use this calculator for your daily computation needs!
 
-## Test
-That link 👉 http://127.0.0.1:5500/index.html
+
