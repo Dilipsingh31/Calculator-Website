@@ -1,54 +1,30 @@
-## 🔐 Password Strength Checker
+# Calculator Web Application
 
-Welcome to the Password Strength Checker project!
-This tool helps you check how strong your password is and guides you in making it safer.
+This project is a stylish and functional web-based calculator application with a modern design, featuring a dark background, vibrant button styling, and a subtle neon glow effect for an enhanced user interface.
 
-## 📋 Purpose
+## Features
 
-The goal of this project is to provide a simple and quick way to:
+- **Responsive Design:** The calculator is designed to seamlessly adapt to various devices, ensuring a consistent user experience.
+  
+- **Mathematical Operations:** Perform basic operations like addition, subtraction, multiplication, and division.
+  
+- **Decimal Input:** Input decimal numbers for precision, with proper handling of decimal points.
+  
+- **Clear and Calculate:** Utilize the clear button to reset input and the calculate button to perform arithmetic operations.
+  
+- **Neon Glow Effect:** A distinctive neon glow effect adds a touch of modern aesthetics to the calculator.
 
-Test the strength of your passwords.
+## Usage
 
-Improve your online security.
+1. Enter numerical values using calculator buttons.
+  
+2. Perform mathematical operations by selecting corresponding operator buttons.
+  
+3. Utilize the decimal button for decimal input.
+  
+4. Clear input or perform calculations as needed.
 
-Stay safe from potential threats.
+Feel free to explore and use this calculator for your daily computation needs!
 
-## 🎨 Design Tools
-
-The user interface is designed using:
-
-Figma
-
-Photoshop
-
-## 💻 Technologies Used
-
-HTML
-
-CSS
-
-JavaScript
-
-jQuery
-
-Bootstrap
-
-## 🌐 Live Project
-
-👉 Try it here: Password Strength Checker
-
-## 📧 Contact
-
-For inquiries or collaboration: dilipsinghsikar9695@gmail.com
-
-
-
-## 👏 Thank You
-
-Thank you for visiting this project!
-Your security matters — stay safe online.
-
-## 📌 Hashtags
-
-#PasswordStrength #Security #PasswordChecker #OnlineSecurity
-#WebDevelopment #CyberSecurity #TechProject #PasswordSafety
+# Test
+That link 👉 http://127.0.0.1:5500/index.html
